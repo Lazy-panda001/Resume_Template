@@ -18,22 +18,26 @@ Techno India College Of Technology
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
 Linktree</a> |
-<a href="https://blog.huikang.dev/resume/?utm_source=resume"
+<a href="https://drive.google.com/drive/folders/1m6ji7OTrthgYuKLlg1DFi-M2gkvcZ2u0?usp=sharing"
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
 Resume</a> |
-<a href="https://www.linkedin.com/in/huikang-tong/"
+<a href="https://www.linkedin.com/in/kalyan-chowdhury/"
 onclick="getOutboundLink('LinkedIn'); return true;"
 target="_blank">
 LinkedIn</a> |
-<a href="https://github.com/tonghuikang/"
+<a href="https://github.com/Lazy-panda001"
 onclick="getOutboundLink('Github'); return true;"
 target="_blank">
 Github</a> |
-<a href="https://www.kaggle.com/huikang/"
-onclick="getOutboundLink('Kaggle'); return true;"
+<a href="https://leetcode.com/Lazy_panda001/"
+onclick="getOutboundLink('LeetCode'); return true;"
 target="_blank">
-Kaggle</a> |
+LeetCode</a> |
+<a href="https://www.codechef.com/users/kalyan361"
+onclick="getOutboundLink('CodeChef'); return true;"
+target="_blank">
+Codechef</a> |
 <a href="https://codeforces.com/profile/huikang/"
 onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
