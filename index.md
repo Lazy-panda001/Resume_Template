@@ -50,29 +50,29 @@ GeeksForGeeks</a>
 `Sep 2020 - June 2022`
 
 - Master Of Technology with Bio-Informatics (Information Technology and Biology)
-- Engineering Systems and Design, Operations Research Track with Computer Science Minor
-- Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
+- Advance Algorithm, Basics Of Python, Machine Learning, Biological Data Analysis etc..
+- Grade Point Average <a id="sutd-gpa">> 8.67/10 </a>
 
-**Singapore Management University**
-`May 2017 - Aug 2021`
+**Techno India College Of Technology**
+`Aug 2014 - June 2018`
 
-- Bachelor of Business Management
-- Grade Point Average <a id="smu-gpa">> 3.00/4.00</a>
+- Bachelor of Technology with Information Technology 
+- Grade Point Average <a id="smu-gpa">> 8.41/10 </a>
 
 
 ## Work Experience
 
-**Versafleet**
-`Dec 2020 - Jan 2021`<br>
-Data Science Intern
+**Blue Yonder**
+`July 2022 - On-Going`<br>
+Software Development Engineer - 1
 
 - Explored vehicle and driver features to improve the estimate of the time of arrival
 - Reviewed literature and prototyped a learning-based approach for vehicle routing problem
 - Technical domains: python or-tools pandas matplotlib, git, PostgreSQL
 
-**Teralytics**
-`Jan 2020 - Nov 2020`<br>
-Data Science Intern
+**IIIT Allahabad**
+`Sep 2020 - June 2022`<br>
+Teaching Assistantship
 
 - Designed and implemented metrics to illustrate the accuracy of proposed methods
 - Optimized and parallelised routine calculation pipelines with PySpark
