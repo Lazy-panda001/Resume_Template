@@ -3,11 +3,12 @@ layout: cv
 title: Resume
 ---
 
-# Tong Hui Kang
+# Kalyan Chowdhury
 <br>
-Fresh Graduate <br>from
-Singapore University of Technology and Design <br>
-and Singapore Management University
+Fresh Post Graduate <br>from
+Indian Institute Of Information Technology <br>
+Under Graduate <br> from
+Techno India College Of Technology
 
 <div id="contacts">
 <a id="personal-contacts">Singapore Citizen | hello (at) huikang.dev</a> 
