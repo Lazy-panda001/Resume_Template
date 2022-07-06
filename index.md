@@ -11,13 +11,13 @@ Under Graduate <br> from
 Techno India College Of Technology
 
 <div id="contacts">
-<a id="personal-contacts">Singapore Citizen | hello (at) huikang.dev</a> 
+<a id="personal-contacts">India Citizen | Madhyamgram , KOLKATA </a> 
 </div>
 <div id="webaddress">
-<a href="https://blog.huikang.dev?utm_source=resume"
+<a href="https://linktr.ee/Lazy_panda001"
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
-Blog</a> |
+Linktree</a> |
 <a href="https://blog.huikang.dev/resume/?utm_source=resume"
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
