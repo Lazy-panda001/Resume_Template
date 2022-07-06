@@ -38,15 +38,15 @@ LeetCode</a> |
 onclick="getOutboundLink('CodeChef'); return true;"
 target="_blank">
 Codechef</a> |
-<a href="https://codeforces.com/profile/huikang/"
-onclick="getOutboundLink('Codeforces'); return true;"
+<a href="https://auth.geeksforgeeks.org/user/kalyan_geeks12/practice/"
+onclick="getOutboundLink('GeeksForGeeks'); return true;"
 target="_blank">
-Codeforces</a>
+GeeksForGeeks</a>
 </div>
 
 ## Education
 
-**Singapore University of Technology and Design**
+**Indian Institute Of Information Technology, Allahabad (IIIT-A)**
 `May 2017 - Aug 2021`
 
 - Bachelors of Engineering with Honours
