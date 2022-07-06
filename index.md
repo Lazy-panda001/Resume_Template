@@ -47,9 +47,9 @@ GeeksForGeeks</a>
 ## Education
 
 **Indian Institute Of Information Technology, Allahabad (IIIT-A)**
-`May 2017 - Aug 2021`
+`Sep 2020 - June 2022`
 
-- Bachelors of Engineering with Honours
+- Master Of Technology with Bio-Informatics (Information Technology and Biology)
 - Engineering Systems and Design, Operations Research Track with Computer Science Minor
 - Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
 
