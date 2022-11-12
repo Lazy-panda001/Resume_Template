@@ -6,7 +6,7 @@ title: Resume
 # Kalyan Chowdhury
 <br>
 Fresh Post Graduate <br>from
-Indian Institute Of Information Technology <br>
+Indian Institute Of Information Technology, Allahabad <br>
 Under Graduate <br> from
 Techno India College Of Technology
 
